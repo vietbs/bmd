@@ -1,11 +1,11 @@
 {
-    "name": "david",
-    "short_name": "david",
+    "name": "bsafe_mobile",
+    "short_name": "bsafe_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "this is david",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
